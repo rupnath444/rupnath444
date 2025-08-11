@@ -8,9 +8,9 @@ I’m a **Software Engineering student** passionate about learning, experimentin
 ---
 
 ## 🚀 About Me
-- 🌱 **Currently Learning:** Machine Learning, Java, Python, and Git.
+- 🌱 **Currently Learning:** Machine Learning, Java, Python, Git, NumPy, Pandas.
 - 💻 **Languages:** C, Java, Python, HTML.
-- 🛠 **Tools:** Git, VS Code.
+- 🛠 **Tools:** Git,NumPy, Pandas.
 - 🎯 **Goal:** Become a skilled developer with strong problem-solving skills.
 
 ---
@@ -35,7 +35,8 @@ I’m a **Software Engineering student** passionate about learning, experimentin
 - Coding challenges & problem solving
 - Exploring how things work under the hood
 - Connecting with other learners and developers
-- Bug Bounty & Ethical Hacking
+- Learning about tech
+  
 
 ---
 
