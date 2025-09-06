@@ -25,12 +25,6 @@ I’m a **Software Engineering student** passionate about learning, experimentin
 
 ---
 
-## 📊 GitHub Stats
-![Rupnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupnath&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupnath&layout=compact&theme=tokyonight)
-
----
-
 ## 📚 Interests
 - Coding challenges & problem solving
 - Exploring how things work under the hood
